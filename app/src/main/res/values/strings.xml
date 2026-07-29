@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CashTrack</string>
+    <string name="navigation_drawer_open">Open Navigation</string>
+    <string name="navigation_drawer_close">Close Navigation</string>
+    <string-array name="subscription_frequencies">
+        <item>Monthly</item>
+        <item>Yearly</item>
+    </string-array>
+
+</resources>

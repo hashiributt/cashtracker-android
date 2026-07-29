@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_dashboard"
+            android:icon="@android:drawable/ic_dialog_info"
+            android:title="Dashboard" />
+
+        <item
+            android:id="@+id/nav_budgeting"
+            android:icon="@android:drawable/ic_menu_manage"
+            android:title="Budgeting" />
+        <item
+            android:id="@+id/nav_expenses"
+            android:icon="@android:drawable/ic_menu_agenda"
+            android:title="Expenses" />
+        <item
+            android:id="@+id/nav_subscription_tracker"
+            android:title="Subscription Tracker"
+            android:icon="@android:drawable/ic_menu_my_calendar" />
+        <item
+            android:id="@+id/nav_receipt_scanner"
+            android:title="Receipt Scanner"
+            android:icon="@android:drawable/ic_menu_camera" />
+
+        <item
+            android:id="@+id/nav_reports"
+            android:icon="@android:drawable/ic_menu_sort_by_size"
+            android:title="Reports" />
+        <item
+            android:id="@+id/nav_stock_news"
+            android:icon="@android:drawable/ic_menu_info_details"
+            android:title="Stock News" />
+        <item
+            android:id="@+id/nav_spending_tracker"
+            android:icon="@android:drawable/ic_menu_compass"
+            android:title="Spending Tracker" />
+        <item
+            android:id="@+id/nav_reminders"
+            android:icon="@android:drawable/ic_menu_my_calendar"
+            android:title="Reminders" />
+        <item
+            android:id="@+id/nav_money_transfer"
+            android:icon="@android:drawable/ic_menu_send"
+            android:title="Money Transfer" />
+        <item
+            android:id="@+id/nav_spending_analyzer"
+            android:icon="@android:drawable/ic_menu_sort_by_size"
+            android:title="Spending Analyzer" />
+        <item
+            android:id="@+id/nav_recommendations"
+            android:icon="@android:drawable/btn_star"
+            android:title="Recommendations" />
+        <item
+            android:id="@+id/nav_goal_setter"
+            android:icon="@android:drawable/ic_input_get"
+            android:title="Goal Setter" />
+
+        <item
+            android:id="@+id/nav_currency_converter"
+            android:icon="@android:drawable/ic_menu_rotate"
+            android:title="Currency Converter" />
+        <item
+            android:id="@+id/nav_export_report"
+            android:title="Export Report"
+            android:icon="@android:drawable/ic_menu_save" />
+
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@android:drawable/ic_menu_help"
+            android:title="Help" />
+
+
+    </group>
+</menu>

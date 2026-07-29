@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.CashTracker" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#2196F3</item>
+        <item name="colorOnPrimary">#070707</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="colorOnSecondary">#9C27B0</item>
+        <item name="colorSurface">#FFFFFF</item>
+        <item name="android:colorBackground">#F6EAEA</item>
+        <item name="colorError">#000000</item>
+        <item name="colorOnError">#F44336</item>
+
+    </style>
+
+
+    <color name="colorSecondary">#F44336</color>
+    <color name="colorError">#FF0F00</color>
+</resources>
